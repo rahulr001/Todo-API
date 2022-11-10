@@ -1,0 +1,8 @@
+
+Required softwares
+
+1. Python  3.7.3
+2. Django  2.2.2
+3. Postgresql 10
+4. psycopg2
+5. django-rest-swagger

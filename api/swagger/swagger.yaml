@@ -1,0 +1,13 @@
+swagger:2
+info:
+  version:1.0.0
+  title:Promoterplus api
+host: localhost:8000
+basePath:/
+schemas:
+  -http
+consumes:
+  -application/json
+produces:
+  -application/json
+paths:
